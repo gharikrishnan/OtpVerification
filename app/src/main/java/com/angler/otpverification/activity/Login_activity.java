@@ -38,7 +38,7 @@ import retrofit2.Response;
         ContactsAdapter contactsAdapter;
         RecyclerView rv;
         DBHandler dbHandler ;
-        //String name = "HARI";
+        //String name = "HARI"; this initialization
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
