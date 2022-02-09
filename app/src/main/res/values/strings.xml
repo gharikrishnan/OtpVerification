@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">OtpVerification</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="submit">Submit</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="otp_validation">OTP Validation</string>
+    <string name="verification_success">Verification Success!</string>
+    <string name="back_to_home">Back to Home</string>
+    <string name="mobile_number_verification">Mobile Number Verification</string>
+    <string name="welcome">welcome</string>
+    <string name="verify_successfully">verify successfully</string>
+    <string name="image">image</string>
+    <string name="view">View</string>
+    <string name="welcomes">Welcomes</string>
+    <string name="name">Name</string>
+    <string name="hari">Harriers</string>
+    <string name="this_recycle_view">This_recycle_view</string>
+    <string name="images">images</string>
+    <string name="todo">TODO</string>
+    <string name="delete">DELETE</string>
+    <string name="update">UPDATE</string>
+    <string name="save">SAVE</string>
+</resources>
